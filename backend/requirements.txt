@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+cryptography
+alembic
+pydantic
+python-dotenv
+azure-storage-blob
+python-multipart
